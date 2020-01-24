@@ -1,4 +1,4 @@
-# Introduction-to-IBM_Qiskit
+# Quantum Computing : A stochastic guide to understand the (quantum) revolution
 
 ## Instalation
 
@@ -25,6 +25,10 @@ To put this environtmen on your jupyter notebook environment you need to type th
 - python -m ipykernel install --user --name qiskit_env
 
 In order to test if the qiskit is installed you import on your python enviroment. 
+
+## Lecture Notes
+
+Quantum_Computing.pdf 
 
 ## Codes
 
