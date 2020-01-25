@@ -28,7 +28,8 @@ In order to test if the qiskit is installed you import on your python enviroment
 
 ## Lecture Notes
 
-Quantum_Computing.pdf 
+Notes are on the pdf: Quantum_Computing.pdf 
+Or you can see the pdf [here](https://nbviewer.jupyter.org/github/nahumsa/QC-UFS/blob/master/Quantum_Computing.pdf)
 
 ## Codes
 
