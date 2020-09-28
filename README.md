@@ -1,5 +1,7 @@
 # Quantum Computing : A stochastic guide to understand the (quantum) revolution
 
+For a more updated version of the notebooks see this [repo](https://github.com/nahumsa/Introduction-to-IBM_Qiskit).
+
 ## Instalation
 
 The safe way to use the Qiskit is using conda virtual environment. After installing Anaconda 3, you do the following commands:
